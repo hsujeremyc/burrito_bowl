@@ -2,22 +2,22 @@ from managers import managerInfo
 
 #Date Settings
 year = 2016
-week = 'Preseason' # Values - 'Preseason', 1, 2, 3 ... 13
+week = '1' # Values - 'Preseason', 1, 2, 3 ... 13
 
-firstYear = 2013
-yearsCompleted = ['2013','2014','2015']
+firstYear = 2016
+yearsCompleted = []
 
 #League History - Retired Manager list
-retiredManagers = ['Michael Vick']
+retiredManagers = []
 
 #League Settings
-numberOfTeams = 10
-homeFieldAdv = 2
+numberOfTeams = 12
+homeFieldAdv = 0
 # assuming 3 playoff weeks in weeks 14, 15 and 16 of the NFL regular season
 # Valid numbers are 5, 6, 7 and 8
 # otherwise you wouldnt have 3 weeks worth of playoffs
 # room for improvement here - maybe also consider leagues with championship games that span two games
-numInPlayoffs = 5
+numInPlayoffs = 6
 #Starting Spots
 numOfQBs = 1
 numOfWRs = 2
