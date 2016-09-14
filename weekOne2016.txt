@@ -1,0 +1,336 @@
+Jeremy
+QB	Jameis Winston, TB QBRecent News	
+@Atl
+W 31-24	25.5
+RB	Frank Gore, Ind RBRecent News	
+Det
+L 35-39	9.8
+RB	DeAngelo Williams, Pit RBBreaking News	
+@Wsh
+W 38-16	32.1
+WR	Julio Jones, Atl WR  QRecent News	
+TB
+L 24-31	14.6
+WR	Eric Decker, NYJ WRRecent News	
+Cin
+L 22-23	10.7
+TE	Jason Witten, Dal TERecent News	
+NYG
+L 19-20	11.1
+FLEX	Jarvis Landry, Mia WRRecent News	
+@Sea
+L 10-12	9.4
+D/ST	Rams D/ST D/ST	
+@SF
+L 0-28	1
+K	Justin Tucker, Bal K	
+Buf
+W 13-7	9
+Tony
+QB	Aaron Rodgers, GB QBRecent News	
+@Jax
+W 27-23	23.6
+RB	Doug Martin, TB RBBreaking Video	
+@Atl
+W 31-24	12.1
+RB	Matt Jones, Wsh RBBreaking News	
+Pit
+L 16-38	3.8
+WR	Odell Beckham Jr., NYG WRRecent News	
+@Dal
+W 20-19	9.3
+WR	Keenan Allen*, SD WR  IRBreaking News and Video	
+@KC
+L 27-33	9.3
+TE	Coby Fleener, NO TERecent News	
+Oak
+L 34-35	1.1
+FLEX	Demaryius Thomas, Den WR  QBreaking News	
+Car
+W 21-20	6.8
+D/ST	Chiefs D/ST D/ST	
+SD
+W 33-27	1
+K	Chris Boswell, Pit KBreaking News	
+@Wsh
+W 38-16	9
+Richard
+QB	Tyrod Taylor, Buf QBRecent News	
+@Bal
+L 7-13	5.5
+RB	Todd Gurley, LA RBBreaking News and Video	
+@SF
+L 0-28	4.7
+RB	Duke Johnson Jr., Cle RBBreaking News	
+@Phi
+L 10-29	6.5
+WR	Mike Evans, TB WRRecent News	
+@Atl
+W 31-24	18.4
+WR	Randall Cobb, GB WRRecent News	
+@Jax
+W 27-23	9.8
+TE	Charles Clay, Buf TE  QBreaking News	
+@Bal
+L 7-13	5
+FLEX	Julian Edelman, NE WRRecent News	
+@Ari
+W 23-21	11.7
+D/ST	Eagles D/ST D/ST	
+Cle
+W 29-10	11
+K	Cairo Santos, KC KBreaking News	
+SD
+W 33-27	10
+Ron
+QB	Drew Brees, NO QBRecent News	
+Oak
+L 34-35	31.4
+RB	Eddie Lacy, GB RBBreaking Video	
+@Jax
+W 27-23	8.3
+RB	Jeremy Langford, Chi RBBreaking Video	
+@Hou
+L 14-23	13.3
+WR	Antonio Brown, Pit WRBreaking News	
+@Wsh
+W 38-16	28.6
+WR	Dez Bryant, Dal WRBreaking Video	
+NYG
+L 19-20	1.3
+TE	Zach Ertz, Phi TE  QBreaking Video	
+Cle
+W 29-10	8.8
+FLEX	Donte Moncrief, Ind WRRecent News	
+Det
+L 35-39	15.4
+D/ST	Bengals D/ST D/ST	
+@NYJ
+W 23-22	5
+K	Chandler Catanzaro, Ari KBreaking News	
+NE
+L 21-23	2
+Rajeev
+QB	Carson Palmer, Ari QBRecent News	
+NE
+L 21-23	18.9
+RB	Lamar Miller, Hou RBRecent News	
+Chi
+W 23-14	13.7
+RB	Carlos Hyde, SF RBBreaking News and Video	
+LA
+W 28-0	22.3
+WR	A.J. Green, Cin WRRecent News	
+@NYJ
+W 23-22	30
+WR	Emmanuel Sanders, Den WR	
+Car
+W 21-20	7.4
+TE	Delanie Walker, Ten TERecent News	
+Min
+L 16-25	5.7
+FLEX	Marvin Jones, Det WRRecent News	
+@Ind
+W 39-35	10.5
+D/ST	Packers D/ST D/ST	
+@Jax
+W 27-23	5
+K	Blair Walsh, Min KRecent News	
+@Ten
+W 25-16	13
+Ed
+QB	Russell Wilson, Sea QB  QBreaking News and Video	
+Mia
+W 12-10	11.9
+RB	Mark Ingram, NO RBBreaking Video	
+Oak
+L 34-35	9.7
+RB	Latavius Murray, Oak RBBreaking Video	
+@NO
+W 35-34	13.7
+WR	Brandon Marshall, NYJ WRRecent News	
+Cin
+L 22-23	4.7
+WR	Jeremy Maclin, KC WRRecent News	
+SD
+W 33-27	14.7
+TE	Gary Barnidge, Cle TEBreaking News and Video	
+@Phi
+L 10-29	0
+FLEX	Michael Crabtree, Oak WRBreaking Video	
+@NO
+W 35-34	14.2
+D/ST	Cardinals D/ST D/ST	
+NE
+L 21-23	6
+K	Adam Vinatieri, Ind KRecent News	
+Det
+L 35-39	12
+Jen
+QB	Cam Newton, Car QBRecent News	
+@Den
+L 20-21	21.2
+RB	LeSean McCoy, Buf RBBreaking Video	
+@Bal
+L 7-13	15
+RB	DeMarco Murray, Ten RBBreaking Video	
+Min
+L 16-25	20.2
+WR	DeAndre Hopkins, Hou WRRecent News	
+Chi
+W 23-14	13.9
+WR	Jordan Matthews, Phi WRRecent News	
+Cle
+W 29-10	20.9
+TE	Travis Kelce, KC TERecent News	
+SD
+W 33-27	10.4
+FLEX	Theo Riddick, Det RBRecent News	
+@Ind
+W 39-35	25.3
+D/ST	Bills D/ST D/ST	
+@Bal
+L 7-13	10
+K	Steven Hauschka, Sea KBreaking News	
+Mia
+W 12-10	5
+Matt
+QB	Matthew Stafford, Det QBBreaking Video	
+@Ind
+W 39-35	26.1
+RB	C.J. Anderson, Den RB	
+Car
+W 21-20	27.9
+RB	Ryan Mathews, Phi RBRecent News	
+Cle
+W 29-10	13.7
+WR	Allen Robinson, Jax WRRecent News	
+GB
+L 23-27	10.2
+WR	T.Y. Hilton, Ind WRRecent News	
+Det
+L 35-39	10.9
+TE	Clive Walford, Oak TERecent News	
+@NO
+W 35-34	4
+FLEX	Melvin Gordon, SD RBBreaking Video	
+@KC
+L 27-33	17.7
+D/ST	Jets D/ST D/ST	
+Cin
+L 22-23	9
+K	Matt Prater, Det KRecent News	
+@Ind
+W 39-35	7
+Grant
+QB	Andrew Luck, Ind QBRecent News	
+Det
+L 35-39	35.5
+RB	David Johnson, Ari RBRecent News	
+NE
+L 21-23	21.2
+RB	Jeremy Hill, Cin RBRecent News	
+@NYJ
+W 23-22	9.1
+WR	Alshon Jeffery, Chi WRRecent News	
+@Hou
+L 14-23	12.5
+WR	DeSean Jackson, Wsh WRBreaking News	
+Pit
+L 16-38	13.2
+TE	Jordan Reed, Wsh TEBreaking News	
+Pit
+L 16-38	9.9
+FLEX	Kelvin Benjamin, Car WR	
+@Den
+L 20-21	18.1
+D/ST	Seahawks D/ST D/ST	
+Mia
+W 12-10	11
+K	Dan Bailey, Dal KBreaking News	
+NYG
+L 19-20	17
+Kin
+QB	Ben Roethlisberger, Pit QBBreaking News	
+@Wsh
+W 38-16	21.8
+RB	Adrian Peterson, Min RBBreaking Video	
+@Ten
+W 25-16	3.1
+RB	Matt Forte, NYJ RBRecent News	
+Cin
+L 22-23	18
+WR	Sammy Watkins, Buf WR  QBreaking News and Video	
+@Bal
+L 7-13	6.3
+WR	Doug Baldwin, Sea WRRecent News	
+Mia
+W 12-10	19.7
+TE	Antonio Gates, SD TERecent News	
+@KC
+L 27-33	3.5
+FLEX	Spencer Ware, KC RB  QBreaking News	
+SD
+W 33-27	29.4
+D/ST	Panthers D/ST D/ST	
+@Den
+L 20-21	8
+K	Stephen Gostkowski, NE KBreaking News	
+@Ari
+W 23-21	14
+Ben
+QB	Philip Rivers, SD QBRecent News	
+@KC
+L 27-33	14.6
+RB	Ezekiel Elliott, Dal RBBreaking Video	
+NYG
+L 19-20	11.7
+RB	T.J. Yeldon, Jax RBRecent News	
+GB
+L 23-27	14.9
+WR	Amari Cooper, Oak WRRecent News	
+@NO
+W 35-34	18.7
+WR	Golden Tate, Det WRRecent News	
+@Ind
+W 39-35	7.8
+TE	Julius Thomas, Jax TE  QRecent News	
+GB
+L 23-27	14.9
+FLEX	John Brown, Ari WRBreaking News	
+NE
+L 21-23	1.3
+D/ST	Texans D/ST D/ST	
+Chi
+W 23-14	8
+K	Graham Gano, Car KRecent News	
+@Den
+L 20-21	8
+Kerry
+QB	Eli Manning, NYG QBRecent News	
+@Dal
+W 20-19	18.3
+RB	Devonta Freeman, Atl RBBreaking Video	
+TB
+L 24-31	6
+RB	Rashad Jennings, NYG RBRecent News	
+@Dal
+W 20-19	8.3
+WR	Jordy Nelson, GB WRRecent News	
+@Jax
+W 27-23	12.2
+WR	Brandin Cooks, NO WRRecent News	
+Oak
+L 34-35	30.4
+TE	Greg Olsen, Car TE	
+@Den
+L 20-21	10.8
+FLEX	Larry Fitzgerald, Ari WRRecent News	
+NE
+L 21-23	24.1
+D/ST	Broncos D/ST D/ST	
+Car
+W 21-20	5
+K	Mason Crosby, GB KBreaking News	
+@Jax
+W 27-23	9

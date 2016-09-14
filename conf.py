@@ -1,4 +1,4 @@
-from managers import managerInfo
+from twelveTeamLeague import managerInfo
 
 #Date Settings
 year = 2016

@@ -29,9 +29,9 @@ for line in lines:
     playerScore = line.split('\t')[1]
     print("INSERT INTO history (manager, week, year, vs, player, playerPosition, score, isHomeGame) VALUES ('" + manager + "', " + str(week) + ", " + str(year) + ", '" + managerOpp + "', '" + player.replace("'", r"") + "', '" + playerPos + "', '" + str(playerScore) + "', '" + str(int(not isAway)) + "');")
     if isAway == True:
-        awayPlayerScore = awayPlayerScore + int(playerScore)
+        awayPlayerScore = awayPlayerScore + float(playerScore)
     else:
-        homePlayerScore = homePlayerScore + int(playerScore)
+        homePlayerScore = homePlayerScore + float(playerScore)
     if count == 27:
       count = -1
       isAway = not isAway

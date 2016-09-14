@@ -14,7 +14,7 @@ managerInfo = [
         'lastYearPosition': '9th'
       },
       {
-        'name': 'Jen Thai',
+        'name': 'Jen',
         'nickname': 'Jen',
         'picture': '',
         'clubHouse': 'http://games.espn.com/ffl/clubhouse?leagueId=1160737&teamId=12',
@@ -63,7 +63,7 @@ managerInfo = [
         'lastYearPosition': '1st'
       },
       {
-        'name': ,'Ben'
+        'name': 'Ben',
         'nickname': 'Blackie',
         'picture': '',
         'clubHouse': 'http://games.espn.com/ffl/clubhouse?leagueId=1160737&teamId=8',
