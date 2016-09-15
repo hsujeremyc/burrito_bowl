@@ -2,7 +2,7 @@ from twelveTeamLeague import managerInfo
 
 #Date Settings
 year = 2016
-week = '1' # Values - 'Preseason', 1, 2, 3 ... 13
+week = 1 # Values - 'Preseason', 1, 2, 3 ... 13
 
 firstYear = 2016
 yearsCompleted = []
