@@ -81,6 +81,8 @@ def getLeastPointsSeason():
         score = minSeason.get('count')
         owner = minSeason.get('name')
         year = minSeason.get('year')
+        if score == 9999:
+            score = 'N/A'
         return (owner, year, score)
     else:
         return ("N/A","N/A",0)
@@ -111,9 +113,8 @@ def getMostPointsAllowedSeason():
     if len(pysMap) > 0:
         maxSeason = { 'count': 0, 'numGames': 13}
         for seasonKey in pysMap:
-            if pysMap[seasonKey].get('numGames') == 13:
-                if pysMap[seasonKey].get('count') > maxSeason.get('count'):
-                    maxSeason = pysMap[seasonKey]
+            if pysMap[seasonKey].get('count') > maxSeason.get('count'):
+                maxSeason = pysMap[seasonKey]
         score = maxSeason.get('count')
         owner = maxSeason.get('name')
         year = maxSeason.get('year')
@@ -143,6 +144,8 @@ def getFewestPointsAllowedSeason():
         score = minSeason.get('count')
         owner = minSeason.get('name')
         year = minSeason.get('year')
+        if score == 9999:
+            score = 'N/A'
         return (owner, year, score)
     return ("N/A","N/A",0)
 
