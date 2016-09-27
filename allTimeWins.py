@@ -187,7 +187,7 @@ midLine = 0
 def generateRecords():
     for manager in managers:
         records.append(getRecord(manager))
-    return records.sort(key=lambda tup: tup[3], reverse=True)
+    return records.sort(key=lambda tup: float(tup[3]), reverse=True)
 
 def generateSackos():
     for year in yearsCompleted:

@@ -1,0 +1,336 @@
+Ed
+QB	Ryan Tannehill, Mia QBBreaking News	
+Cle
+W 30-24	19
+RB	Mark Ingram, NO RBBreaking News	
+Atl
+L 32-45	20.7
+RB	Latavius Murray, Oak RBBreaking News	
+@Ten
+W 17-10	10.3
+WR	Jeremy Maclin, KC WRBreaking News	
+NYJ
+W 24-3	5.5
+WR	Michael Crabtree, Oak WRBreaking News	
+@Ten
+W 17-10	14.2
+TE	Dennis Pitta, Bal TEBreaking News	
+@Jax
+W 19-17	7.2
+FLEX	Mike Wallace, Bal WRBreaking News	
+@Jax
+W 19-17	5.4
+D/ST	Cardinals D/ST D/ST	
+@Buf
+L 18-33	7
+K	Adam Vinatieri, Ind K	
+SD
+W 26-22	8
+Jeremy
+QB	Jameis Winston, TB QBBreaking News	
+LA
+L 32-37	25.5
+RB	DeAngelo Williams, Pit RBBreaking News and Video	
+@Phi
+L 3-34	6.4
+RB	Charles Sims, TB RBBreaking News	
+LA
+L 32-37	21.4
+WR	Julio Jones, Atl WRBreaking News	
+@NO
+W 45-32	2.1
+WR	Eric Decker, NYJ WRBreaking News	
+@KC
+L 3-24	3.6
+TE	Jason Witten, Dal TEBreaking News	
+Chi
+W 31-17	3.5
+FLEX	Jarvis Landry, Mia WR  QBreaking News	
+Cle
+W 30-24	23.1
+D/ST	Patriots D/ST D/ST	
+Hou
+W 27-0	18
+K	Justin Tucker, Bal KBreaking News	
+@Jax
+W 19-17	17
+Richard
+QB	Tyrod Taylor, Buf QBBreaking News and Video	
+Ari
+W 33-18	16.4
+RB	Todd Gurley, LA RBBreaking News	
+@TB
+W 37-32	20.5
+RB	Tevin Coleman, Atl RBBreaking News and Video	
+@NO
+W 45-32	28.4
+WR	Mike Evans, TB WRBreaking News	
+LA
+L 32-37	24.2
+WR	Randall Cobb, GB WRBreaking News and Video	
+Det
+W 34-27	3.8
+TE	Kyle Rudolph, Min TEBreaking News	
+@Car
+W 22-10	16.5
+FLEX	Julian Edelman, NE WRRecent News	
+Hou
+W 27-0	7.2
+D/ST	Giants D/ST D/ST	
+Wsh
+L 27-29	3
+K	Cairo Santos, KC KBreaking News	
+NYJ
+W 24-3	6
+Rajeev
+QB	Carson Palmer, Ari QBBreaking News and Video	
+@Buf
+L 18-33	3.5
+RB	Lamar Miller, Hou RBRecent News	
+@NE
+L 0-27	12.7
+RB	Carlos Hyde, SF RBBreaking News	
+@Sea
+L 18-37	25
+WR	A.J. Green, Cin WRBreaking News	
+Den
+L 17-29	11.7
+WR	Emmanuel Sanders, Den WRBreaking News and Video	
+@Cin
+W 29-17	28.2
+TE	Delanie Walker*, Ten TE  OBreaking News	
+Oak
+L 10-17	0
+FLEX	Marvin Jones, Det WRBreaking News and Video	
+@GB
+L 27-34	35.5
+D/ST	Packers D/ST D/ST	
+Det
+W 34-27	5
+K	Blair Walsh, Min KBreaking News	
+@Car
+W 22-10	5
+Tony
+QB	Aaron Rodgers, GB QBBreaking News	
+Det
+W 34-27	26.4
+RB	Matt Jones, Wsh RBBreaking News	
+@NYG
+W 29-27	8.9
+RB	Christine Michael, Sea RBBreaking News	
+SF
+W 37-18	24.1
+WR	Odell Beckham Jr., NYG WRBreaking News	
+Wsh
+L 27-29	15.6
+WR	Demaryius Thomas, Den WRBreaking News	
+@Cin
+W 29-17	17
+TE	Coby Fleener, NO TEBreaking News	
+Atl
+L 32-45	20.4
+FLEX	Sterling Shepard, NYG WRBreaking News	
+Wsh
+L 27-29	15.8
+D/ST	Rams D/ST D/ST	
+@TB
+W 37-32	11
+K	Dustin Hopkins, Wsh KBreaking News	
+@NYG
+W 29-27	19
+Ron
+QB	Drew Brees, NO QBBreaking News	
+Atl
+L 32-45	25.9
+RB	Eddie Lacy, GB RBBreaking News and Video	
+Det
+W 34-27	11
+RB	Jeremy Langford, Chi RB  DBreaking News	
+@Dal
+L 17-31	5.6
+WR	Antonio Brown, Pit WRBreaking News	
+@Phi
+L 3-34	20
+WR	Dez Bryant, Dal WR  QBreaking News	
+Chi
+W 31-17	11.5
+TE	Eric Ebron, Det TEBreaking News	
+@GB
+L 27-34	9.4
+FLEX	Allen Hurns, Jax WRBreaking News	
+Bal
+L 17-19	6
+D/ST	Ravens D/ST D/ST	
+@Jax
+W 19-17	13
+K	Chandler Catanzaro, Ari K	
+@Buf
+L 18-33	6
+Jen
+QB	Cam Newton, Car QBBreaking News	
+Min
+L 10-22	13.1
+RB	LeSean McCoy, Buf RBBreaking News	
+Ari
+W 33-18	25.1
+RB	DeMarco Murray, Ten RBBreaking News	
+Oak
+L 10-17	24
+WR	DeAndre Hopkins, Hou WRRecent News	
+@NE
+L 0-27	7.6
+WR	Jordan Matthews, Phi WRBreaking News	
+Pit
+W 34-3	8.9
+TE	Travis Kelce, KC TEBreaking News	
+NYJ
+W 24-3	17.9
+FLEX	LeGarrette Blount, NE RBRecent News	
+Hou
+W 27-0	22.5
+D/ST	Dolphins D/ST D/ST	
+Cle
+W 30-24	6
+K	Steven Hauschka, Sea K	
+SF
+W 37-18	13
+Ben
+QB	Philip Rivers, SD QBBreaking News	
+@Ind
+L 22-26	11.4
+RB	Ezekiel Elliott, Dal RBBreaking News	
+Chi
+W 31-17	17
+RB	T.J. Yeldon, Jax RBBreaking News	
+Bal
+L 17-19	3.8
+WR	Amari Cooper, Oak WRBreaking News	
+@Ten
+W 17-10	8.2
+WR	Golden Tate, Det WRBreaking News	
+@GB
+L 27-34	5.2
+TE	Julius Thomas, Jax TEBreaking News	
+Bal
+L 17-19	2.3
+FLEX	Cole Beasley, Dal WRBreaking News	
+Chi
+W 31-17	10.8
+D/ST	Texans D/ST D/ST	
+@NE
+L 0-27	1
+K	Graham Gano, Car KBreaking News	
+Min
+L 10-22	4
+Kerry
+QB	Eli Manning, NYG QBBreaking News and Video	
+Wsh
+L 27-29	14
+RB	Devonta Freeman, Atl RBBreaking News and Video	
+@NO
+W 45-32	29.2
+RB	Fozzy Whittaker, Car RBBreaking News	
+Min
+L 10-22	8.1
+WR	Jordy Nelson, GB WRBreaking News	
+Det
+W 34-27	25.1
+WR	Larry Fitzgerald, Ari WRBreaking News	
+@Buf
+L 18-33	9.5
+TE	Greg Olsen, Car TEBreaking News	
+Min
+L 10-22	9.4
+FLEX	Tyrell Williams, SD WRBreaking News	
+@Ind
+L 22-26	9.9
+D/ST	Broncos D/ST D/ST	
+@Cin
+W 29-17	9
+K	Mason Crosby, GB KBreaking News	
+Det
+W 34-27	11
+Grant
+QB	Andrew Luck, Ind QBBreaking News	
+SD
+W 26-22	13.2
+RB	David Johnson, Ari RBBreaking News	
+@Buf
+L 18-33	24.6
+RB	Jeremy Hill, Cin RBBreaking News	
+Den
+L 17-29	21.7
+WR	Kelvin Benjamin, Car WRBreaking News	
+Min
+L 10-22	0
+WR	Phillip Dorsett, Ind WRBreaking News	
+SD
+W 26-22	4.2
+TE	Jordan Reed, Wsh TEBreaking News	
+@NYG
+W 29-27	7.6
+FLEX	Travaris Cadet, NO RBBreaking News	
+Atl
+L 32-45	6.2
+D/ST	Seahawks D/ST D/ST	
+SF
+W 37-18	2
+K	Dan Bailey, Dal K	
+Chi
+W 31-17	7
+Kin
+QB	Ben Roethlisberger, Pit QBBreaking News and Video	
+@Phi
+L 3-34	7
+RB	Matt Forte, NYJ RBBreaking News	
+@KC
+L 3-24	7.4
+RB	Spencer Ware, KC RBBreaking News	
+NYJ
+W 24-3	6.8
+WR	Michael Floyd, Ari WR  QBreaking News	
+@Buf
+L 18-33	8.5
+WR	Will Fuller V, Hou WRRecent News	
+@NE
+L 0-27	4.6
+TE	Trey Burton, Phi TEBreaking News	
+Pit
+W 34-3	2.9
+FLEX	Doug Baldwin, Sea WRBreaking News	
+SF
+W 37-18	26
+D/ST	Panthers D/ST D/ST	
+Min
+L 10-22	2
+K	Stephen Gostkowski, NE K	
+Hou
+W 27-0	9
+Matt
+QB	Matthew Stafford, Det QBBreaking News	
+@GB
+L 27-34	26.5
+RB	C.J. Anderson, Den RBBreaking News	
+@Cin
+W 29-17	4.6
+RB	Melvin Gordon, SD RBBreaking News	
+@Ind
+L 22-26	15.8
+WR	Allen Robinson, Jax WRBreaking News	
+Bal
+L 17-19	21.2
+WR	T.Y. Hilton, Ind WRBreaking News	
+SD
+W 26-22	27.4
+TE	Jesse James, Pit TEBreaking News	
+@Phi
+L 3-34	2
+FLEX	Travis Benjamin, SD WRBreaking News	
+@Ind
+L 22-26	8.2
+D/ST	Jets D/ST D/ST	
+@KC
+L 3-24	2
+K	Josh Brown, NYG K	
+Wsh
+L 27-29	9
