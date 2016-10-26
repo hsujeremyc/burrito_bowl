@@ -1,0 +1,336 @@
+Jeremy
+QB	Matt Ryan, Atl QBBreaking News	
+@Sea
+L 24-26	21.6
+RB	Jamaal Charles, KC RBBreaking News and Video	
+@Oak
+W 26-10	11.7
+RB	Frank Gore, Ind RBBreaking News	
+@Hou
+L 23-26	11.3
+WR	Julio Jones, Atl WRBreaking News	
+@Sea
+L 24-26	23.4
+WR	Jarvis Landry, Mia WRBreaking News	
+Pit
+W 30-15	12.6
+TE	Martellus Bennett, NE TEBreaking News	
+Cin
+W 35-17	7.3
+FLEX	Jimmy Graham, Sea TEBreaking News	
+Atl
+W 26-24	11.9
+D/ST	Patriots D/ST D/ST	
+Cin
+W 35-17	5
+K	Justin Tucker, Bal K	
+@NYG
+L 23-27	11
+Grant
+QB	Alex Smith, KC QBBreaking News	
+@Oak
+W 26-10	8.9
+RB	David Johnson, Ari RBBreaking News	
+NYJ
+W 28-3	33.3
+RB	Jeremy Hill, Cin RBBreaking News	
+@NE
+L 17-35	4.6
+WR	Kelvin Benjamin, Car WRBreaking News	
+@NO
+L 38-41	12.6
+WR	Willie Snead, NO WRBreaking News	
+Car
+W 41-38	6.7
+TE	Dwayne Allen, Ind TE  QBreaking News	
+@Hou
+L 23-26	1.4
+FLEX	Alshon Jeffery, Chi WRBreaking News	
+Jax
+L 16-17	12.8
+D/ST	Seahawks D/ST D/ST	
+Atl
+W 26-24	8
+K	Greg Zuerlein, LA K	
+@Det
+L 28-31	4
+Jen
+QB	Cam Newton, Car QBBreaking News	
+@NO
+L 38-41	27
+RB	LeSean McCoy, Buf RBBreaking News	
+SF
+W 45-16	33.2
+RB	DeMarco Murray, Ten RBBreaking News	
+Cle
+W 28-26	12.5
+WR	DeAndre Hopkins, Hou WRBreaking News	
+Ind
+W 26-23	11.6
+WR	Jordan Matthews, Phi WR  QBreaking News	
+@Wsh
+L 20-27	9
+TE	Travis Kelce, KC TEBreaking News	
+@Oak
+W 26-10	4.7
+FLEX	LeGarrette Blount, NE RBBreaking News	
+Cin
+W 35-17	14
+D/ST	Rams D/ST D/ST	
+@Det
+L 28-31	0
+K	Steven Hauschka, Sea KBreaking News	
+Atl
+W 26-24	8
+Richard
+QB	Tyrod Taylor, Buf QBBreaking News and Video	
+SF
+W 45-16	20
+RB	Todd Gurley, LA RBBreaking News	
+@Det
+L 28-31	11.7
+RB	Tevin Coleman, Atl RBBreaking News	
+@Sea
+L 24-26	2.2
+WR	Randall Cobb, GB WR  QBreaking News	
+Dal
+L 16-30	14.8
+WR	DeVante Parker, Mia WRBreaking News	
+Pit
+W 30-15	5.3
+TE	Charles Clay, Buf TE  QBreaking News	
+SF
+W 45-16	7.7
+FLEX	Julian Edelman, NE WRBreaking News and Video	
+Cin
+W 35-17	5.8
+D/ST	Eagles D/ST D/ST	
+@Wsh
+L 20-27	14
+K	Matt Prater, Det KBreaking News	
+LA
+W 31-28	7
+Matt
+QB	Dak Prescott, Dal QBBreaking News	
+@GB
+W 30-16	18.5
+RB	C.J. Anderson, Den RBRecent News	
+@SD
+L 13-21	9.1
+RB	Melvin Gordon, SD RBRecent News	
+Den
+W 21-13	9.4
+WR	Allen Robinson, Jax WRBreaking News and Video	
+@Chi
+W 17-16	6.4
+WR	T.Y. Hilton, Ind WRBreaking News	
+@Hou
+L 23-26	6.4
+TE	Rob Gronkowski, NE TEBreaking News	
+Cin
+W 35-17	25.7
+FLEX	Ryan Mathews, Phi RBBreaking News	
+@Wsh
+L 20-27	6
+D/ST	Bills D/ST D/ST	
+SF
+W 45-16	6
+K	Josh Brown, NYG K	
+Bal
+W 27-23	9
+Ron
+QB	Drew Brees, NO QBBreaking News	
+Car
+W 41-38	32.6
+RB	Eddie Lacy, GB RB  QBreaking News and Video	
+Dal
+L 16-30	7.6
+RB	Jonathan Stewart, Car RBBreaking News	
+@NO
+L 38-41	20.5
+WR	Antonio Brown, Pit WRBreaking News and Video	
+@Mia
+L 15-30	6.5
+WR	Terrance Williams, Dal WRBreaking News	
+@GB
+W 30-16	9.5
+TE	Zach Ertz, Phi TEBreaking News	
+@Wsh
+L 20-27	2.7
+FLEX	T.J. Yeldon, Jax RBBreaking News	
+@Chi
+W 17-16	3.1
+D/ST	Steelers D/ST D/ST	
+@Mia
+L 15-30	1
+K	Caleb Sturgis, Phi KBreaking News	
+@Wsh
+L 20-27	8
+Ben
+QB	Marcus Mariota, Ten QBBreaking News and Video	
+Cle
+W 28-26	27.8
+RB	Ezekiel Elliott, Dal RBBreaking News	
+@GB
+W 30-16	18.4
+RB	Le'Veon Bell, Pit RBBreaking News and Video	
+@Mia
+L 15-30	15.8
+WR	Amari Cooper, Oak WRBreaking News	
+KC
+L 10-26	17.9
+WR	John Brown, Ari WRBreaking News	
+NYJ
+W 28-3	7.9
+TE	Zach Miller, Chi TE  QBreaking News	
+Jax
+L 16-17	6.6
+FLEX	James White, NE RBBreaking News and Video	
+Cin
+W 35-17	22.6
+D/ST	Titans D/ST D/ST	
+Cle
+W 28-26	6
+K	Graham Gano, Car KBreaking News	
+@NO
+L 38-41	6
+Rajeev
+QB	Andy Dalton, Cin QBBreaking News and Video	
+@NE
+L 17-35	21.9
+RB	Lamar Miller, Hou RBBreaking News	
+Ind
+W 26-23	31.3
+RB	Carlos Hyde, SF RB  QBreaking News	
+@Buf
+L 16-45	5.2
+WR	A.J. Green, Cin WRBreaking News	
+@NE
+L 17-35	11.8
+WR	Emmanuel Sanders, Den WRRecent News	
+@SD
+L 13-21	6
+TE	Delanie Walker, Ten TEBreaking News and Video	
+Cle
+W 28-26	2.6
+FLEX	Marvin Jones, Det WRBreaking News	
+LA
+W 31-28	8.3
+D/ST	Bears D/ST D/ST	
+Jax
+L 16-17	7
+K	Matt Bryant, Atl K	
+@Sea
+L 24-26	6
+Kerry
+QB	Tom Brady, NE QBBreaking News	
+Cin
+W 35-17	27.2
+RB	Devonta Freeman, Atl RBBreaking News	
+@Sea
+L 24-26	6.5
+RB	Rashad Jennings, NYG RBBreaking News	
+Bal
+W 27-23	5.5
+WR	Jordy Nelson, GB WRBreaking News	
+Dal
+L 16-30	7.3
+WR	Larry Fitzgerald, Ari WRBreaking News	
+NYJ
+W 28-3	7.9
+TE	Greg Olsen, Car TEBreaking News	
+@NO
+L 38-41	12.4
+FLEX	Brandin Cooks, NO WRBreaking News	
+Car
+W 41-38	27
+D/ST	Broncos D/ST D/ST	
+@SD
+L 13-21	6
+K	Mason Crosby, GB KBreaking News	
+Dal
+L 16-30	11
+Ed
+QB	Russell Wilson, Sea QBBreaking News	
+Atl
+W 26-24	11.5
+RB	Mark Ingram, NO RBBreaking News and Video	
+Car
+W 41-38	7
+RB	Arian Foster, Mia RBBreaking News	
+Pit
+W 30-15	2.5
+WR	Brandon Marshall, NYJ WRBreaking News	
+@Ari
+L 3-28	8.5
+WR	Michael Crabtree, Oak WRBreaking News	
+KC
+L 10-26	2
+TE	Dennis Pitta, Bal TEBreaking News	
+@NYG
+L 23-27	6.6
+FLEX	Jeremy Maclin, KC WRBreaking News and Video	
+@Oak
+W 26-10	6.4
+D/ST	Cardinals D/ST D/ST	
+NYJ
+W 28-3	12
+K	Adam Vinatieri, Ind KBreaking News	
+@Hou
+L 23-26	12
+Kin
+QB	Ben Roethlisberger*, Pit QB  OBreaking News and Video	
+@Mia
+L 15-30	9.6
+RB	Matt Forte, NYJ RBBreaking News and Video	
+@Ari
+L 3-28	2.7
+RB	Jordan Howard, Chi RBBreaking News and Video	
+Jax
+L 16-17	11
+WR	Doug Baldwin, Sea WRBreaking News	
+Atl
+W 26-24	5.1
+WR	Sammie Coates, Pit WRBreaking News	
+@Mia
+L 15-30	0
+TE	Gary Barnidge, Cle TEBreaking News	
+@Ten
+L 26-28	7.4
+FLEX	Eddie Royal, Chi WR  QBreaking News	
+Jax
+L 16-17	7.4
+D/ST	Panthers D/ST D/ST	
+@NO
+L 38-41	0
+K	Stephen Gostkowski, NE KBreaking News	
+Cin
+W 35-17	9
+Tony
+QB	Aaron Rodgers, GB QBBreaking News and Video	
+Dal
+L 16-30	12.5
+RB	Christine Michael, Sea RBBreaking News	
+Atl
+W 26-24	21.8
+RB	Terrance West, Bal RBBreaking News and Video	
+@NYG
+L 23-27	26.3
+WR	Odell Beckham Jr., NYG WRBreaking News and Video	
+Bal
+W 27-23	36.2
+WR	Demaryius Thomas, Den WRRecent News	
+@SD
+L 13-21	4
+TE	Coby Fleener, NO TEBreaking News	
+Car
+W 41-38	22.6
+FLEX	Quincy Enunwa, NYJ WRBreaking News	
+@Ari
+L 3-28	5.7
+D/ST	Lions D/ST D/ST	
+LA
+W 31-28	2
+K	Nick Novak, Hou KBreaking News	
+Ind
+W 26-23	7
